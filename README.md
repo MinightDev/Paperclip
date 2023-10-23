@@ -1,22 +1,32 @@
-# Paperclip - Privacy-Focused Data Breach Search Engine
+# Paperclip: A Privacy-Focused Data Breach Search Engine
 
-Paperclip is a powerful privacy-focused data breach search engine that empowers users to swiftly and securely investigate breaches using email addresses, phone numbers, and more. Whether you're an individual safeguarding your online presence or a business committed to protecting customer data, Paperclip is your trusted solution.
+![Paperclip v1.4 Update](https://cdn.discordapp.com/attachments/551050418541821992/1166059048328769659/1.4.png?ex=65491c1d&is=6536a71d&hm=ce965ba3920c67489b53d66724daa0b446fbd8604cd91fef479c4fab5f1c8292&)
 
-## Demo
+Paperclip is a powerful privacy-focused data breach search engine that empowers users to swiftly and securely investigate breaches using email addresses, phone numbers, websites, and IP addresses. Our robust search engine delivers real-time results while prioritizing the privacy and security of user queries.
 
-Check out our [live demo](https://paperclip.pythonanywhere.com) to explore Paperclip's features. Please note that certain functionalities have been disabled in this demo for demonstration purposes.
+Whether you're an individual safeguarding your online presence or a business committed to protecting customer data, Paperclip stands as your trusted solution.
 
-- **Username:** admin@example.com
-- **Password:** 123456789
+**Demo Link:** [Live Demo](https://paperclip.pythonanywhere.com)  
+**Demo Credentials:**
+- Username: `admin@example.com`
+- Password: `123456789`
+(*Please note that certain functionalities have been disabled in this demo for demonstration purposes.*)
+
+**For searching, you can utilize the following examples:**
+- Email: `john.doe@example.com` or `robert.johnson@mailserver.net` or `rwilson45@example.com`
+- Phone Number: `999-888-7777`
+- Websites: `https://google.com` or `http://netflix.com`
+- IP Addresses: `172.18.3.75` or `192.168.1.100`
 
 ## Features
 
-- **Real-Time Data Breach Search:** Instant access to data breach information by email address, phone number, and more.
 - **Secure User Registration, Login, and Forgot Password Functions:** Ensuring secure access to the platform.
-- **Advanced Search:** Easily search for data breaches using email addresses or phone numbers.
+- **Advanced Search:** Easily search for data breaches using email addresses, phone numbers, websites, and IP addresses.
 - **Email Search:** Verify if your email address has been compromised in any data breaches.
 - **Phone Number Search:** Check if your phone number has been exposed in any breaches.
 - **Website Search:** Search for websites to check for potential data breaches.
+- **IP Address Search:** Find data breaches associated with specific IP addresses.
+- **Detailed Results:** Reveal comprehensive breach details, including website names and credentials.
 - **User Customization:** Allow users to customize their profiles and settings.
 - **Account Credits System:** Users can pay for searches using an account credits system.
 - **Integrated Payments:** Payment options include PayPal, Stripe, and Coinbase Commerce (cryptocurrency).
@@ -57,8 +67,8 @@ Check out our [live demo](https://paperclip.pythonanywhere.com) to explore Paper
 
 - [NEW] Added the ability to manage plans from the admin dashboard.
 - [NEW] Added the ability to change the logo, favicons, and other customizations to make it easy to modify the website to fit your needs.
-- [NEW] Added purchasable ad spots feature, which are also managed by the admin and only appear for non-premium users.
-- [IMPROVED] Improved the user profile settings to give more control over accounts, with the ability to remove an account, remove a plan, and request an email change.
+- [NEW] Added purchasable ad spots feature, which is also managed by the admin and only appears for non-premium users.
+- [IMPROVED] Improved the user profile settings to give more control over accounts, with the ability to remove accounts, remove plans, and request email changes.
 - [FIXED] Fixed layout issues and responsiveness for both mobile and desktop views, and fixed results overflow issues on mobile devices.
 - [IMPROVED] Optimized the search algorithm to efficiently search through larger files and provide instant results.
 - [NEW] Added a download button to download results.
@@ -85,12 +95,10 @@ Check out our [live demo](https://paperclip.pythonanywhere.com) to explore Paper
 - Python version 3.10 or higher.
 - Hosting provider (we recommend using PythonAnywhere for this script).
 
-## Installation
+## Instructions
 
-Follow this [video tutorial](https://your-tutorial-link.com) to learn how to set up the script on your hosting environment (PythonAnywhere): [Setup Tutorial](https://your-tutorial-link.com)
+Follow this [video tutorial]([video_tutorial_link](https://studio.youtube.com/video/x5ejapnsskQ/edit)) to learn how to set up the script on your hosting environment (PythonAnywhere)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
