@@ -97,7 +97,7 @@ Whether you're an individual safeguarding your online presence or a business com
 
 ## Instructions
 
-Follow this [video tutorial]([video_tutorial_link](https://studio.youtube.com/video/x5ejapnsskQ/edit)) to learn how to set up the script on your hosting environment (PythonAnywhere)
+Follow this ([video_tutorial_link](https://studio.youtube.com/video/x5ejapnsskQ/edit)) to learn how to set up the script on your hosting environment (PythonAnywhere)
 
 ## License
 
