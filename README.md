@@ -1,6 +1,6 @@
 # Paperclip: A Privacy-Focused Data Breach Search Engine
 
-![Paperclip v1.4 Update](https://cdn.discordapp.com/attachments/551050418541821992/1166059048328769659/1.4.png?ex=65491c1d&is=6536a71d&hm=ce965ba3920c67489b53d66724daa0b446fbd8604cd91fef479c4fab5f1c8292&)
+![Paperclip v1.4 Update](https://cdn.discordapp.com/attachments/551050418541821992/1178347939714826332/v1.5.png?ex=6575d109&is=65635c09&hm=2b9c1f6409a800eddf85e4754b02c96298ff0cbde4cfdabc1ad3ac3d8b9a5382&)
 
 Paperclip is a powerful privacy-focused data breach search engine that empowers users to swiftly and securely investigate breaches using email addresses, phone numbers, websites, and IP addresses. Our robust search engine delivers real-time results while prioritizing the privacy and security of user queries.
 
@@ -27,6 +27,7 @@ Whether you're an individual safeguarding your online presence or a business com
 - **Website Search:** Search for websites to check for potential data breaches.
 - **IP Address Search:** Find data breaches associated with specific IP addresses.
 - **Detailed Results:** Reveal comprehensive breach details, including website names and credentials.
+- **API system:** allowing seamless integration with external applications. Comprehensive documentation is provided to assist developers in utilizing the API effectively.
 - **User Customization:** Allow users to customize their profiles and settings.
 - **Account Credits System:** Users can pay for searches using an account credits system.
 - **Integrated Payments:** Payment options include PayPal, Stripe, and Coinbase Commerce (cryptocurrency).
@@ -43,6 +44,27 @@ Whether you're an individual safeguarding your online presence or a business com
 
 ## Updates
 
+### Paperclip v1.5 Stable Update (25/11/2023)
+
+- [NEW] Auto detect searching functionality:
+Users can now automatically detect emails, IP addresses, phone numbers with great accuracy.
+- [NEW] API v1 with comprehensive documentation:
+Introduced an API first version approach, allowing seamless integration with external applications.
+Clear and detailed documentation provided to assist developers in integrating Paperclip.
+- [NEW] Free credits for new registered users:
+New users receive 80 credits upon registration, allowing for 10 free searches to explore the platform.
+- [IMPROVED] Enhanced main layout design and user panel:
+Improved the aesthetics and functionality of the main layout design and user panel for a more intuitive and pleasing experience.
+- [NEW] User breach notification feature:
+Users are now notified of potential data breaches, allowing them to stay informed and take necessary actions if involved in a breach.
+- [IMPROVED] Comprehensive and clear documentation:
+Documentation for the script has been revamped to offer clear and informative guidance to users.
+- [FIXED] Resolution of various previously reported bugs:
+Multiple bugs that were reported earlier have been addressed, contributing to a more stable system.
+Other minor improvements and optimizations:
+Minor improvements have been implemented to refine the user experience and system performance.
+
+  
 ### Paperclip v1.4 Stable Update (15/10/2023)
 
 - [NEW] Added support for searching by IP address, enabling users to search for IP addresses.
